@@ -1,4 +1,4 @@
-package buyer52
+package buyer53
 
 import (
 	"github.com/mxmCherry/openrtb/native1"

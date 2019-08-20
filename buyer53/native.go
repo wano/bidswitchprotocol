@@ -1,4 +1,4 @@
-package buyer52
+package buyer53
 
 import "encoding/json"
 import "github.com/mxmCherry/openrtb/openrtb2"
