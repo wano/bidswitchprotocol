@@ -1,0 +1,115 @@
+{
+  "id":"1234534625253",
+  "wseat": [
+    "58"
+  ],
+  "imp": [
+    {
+      "id": "06d690d1-bac0-43fa-9257-f6d62d984231",
+      "bidfloor": 15,
+      "exp": 360,
+      "video": {
+        "mimes": [
+          "video/x-flv",
+          "video/mp4"
+        ],
+        "placement":2,
+        "playbackend":1,
+        "skip":0,
+        "minduration": 30,
+        "maxduration": 30,
+        "protocols": [
+          3,
+          6,
+          7
+        ],
+        "w": 640,
+        "h": 480
+      },
+      "pmp": {
+        "private_auction": 1,
+        "deals": [
+          {
+            "id": "deal-1",
+            "wseat": [
+              "58"
+            ],
+            "bidfloor": 2.5,
+            "bidfloorcur": "USD",
+            "at": 3
+          }
+        ]
+      }
+    }
+  ],
+  "device": {
+    "ifa": "035911ea467d03b65cf44f5633b",
+    "mccmnc":"310-005",
+    "ip": "64.124.253.1",
+    "geo": {
+      "lat": 35.012344,
+      "lon": -115.12345,
+      "country": "US",
+      "region": "NY",
+      "city": "White Plains",
+      "zip": "10601"
+    },
+    "devicetype": 6
+  },
+  "user": {
+    "id": "45asdf987656789adfad4678rew656789",
+    "data": [
+      {
+        "id": "6",
+        "name": "Data Provider 1",
+        "segment": [
+          {
+            "name": "M",
+            "value": "15"
+          },
+          {
+            "name": "F",
+            "value": "9"
+          },
+          {
+            "name": "M65+",
+            "value": "8.1"
+          },
+          {
+            "name": "TOTAL",
+            "value": "19.5"
+          }
+        ]
+      },
+      {
+        "name": "demographic",
+        "segment": [
+          {
+            "id": "12341318394918",
+            "name": "auto intenders"
+          }
+        ]
+      }
+    ]
+  },
+  "tmax": 150,
+  "exp": 300,
+  "cur": ["USD"],
+  "source":{
+    "fd":0
+  },
+  "ext": {
+    "ssp": "rubicon",
+    "dooh": {
+      "publisher": {
+        "id": "rubicon_234563",
+        "cat": [
+          "IAB1"
+        ]
+      },
+      "audience":19.5,
+      "impmultiply":1
+    },
+    "s2s_nurl": 1
+  }
+}

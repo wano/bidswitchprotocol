@@ -1,0 +1,73 @@
+{
+  "id":"1234534625253",
+  "wseat":[
+    "58"
+  ],
+  "imp": [
+    {
+      "id": "1",
+      "bidfloor": 15,
+      "exp": 360,
+      "video": {
+        "mimes": [
+          "video/x-flv",
+          "video/mp4",
+          "application/x-shockwave-flash",
+          "application/javascript"
+        ],
+        "placement":2,
+        "skip":0,
+        "playbackend":1,
+        "minduration": 30,
+        "maxduration": 30,
+        "protocols": [
+          3,
+          6
+        ]
+      }
+    }
+  ],
+  "source":{
+    "fd":0
+  },
+  "device": {
+    "geo": {
+      "country": "US",
+      "region": "TX"
+    },
+    "devicetype": 6
+  },
+  "user": {
+    "id": "45asdf987656789adfad4678rew656789",
+    "keywords": "A_18_24,COLLEGE,HHI_75_100,M_18_24,HH_SINGLE",
+    "data": [
+      {
+        "name": "program_types",
+        "segment": [
+          {
+            "name": "HOCKEY_DEC",
+            "value": "8"
+          },
+          {
+            "name": "BASEBALL_DEC",
+            "value": "9"
+          },
+          {
+            "name": "FOOTBALL_DEC",
+            "value": "8.1"
+          }
+        ]
+      }
+    ]
+  },
+  "tmax": 150,
+  "cur": ["USD"],
+  "ext": {
+    "ssp": "dish",
+    "tv": {
+      "publisher": {
+        "id": "dish_"
+      }
+    }
+  }
+}
